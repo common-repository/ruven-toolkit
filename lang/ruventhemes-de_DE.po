@@ -1,0 +1,197 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Ruven Toolkit 1.0\n"
+"POT-Creation-Date: 2013-02-13 14:46-0500\n"
+"PO-Revision-Date: 2013-02-13 14:46-0500\n"
+"Last-Translator: Ruven <info@ruventhemes.com>\n"
+"Language-Team: \n"
+"Language: German\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.4\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e;_x:2c,1\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: init-portfolio.php:42
+msgctxt "post type name"
+msgid "Portfolio Items"
+msgstr "Portfolio-Einträge"
+
+#: init-portfolio.php:43
+msgctxt "singular post type name"
+msgid "Portfolio Item"
+msgstr "Portfolio-Eintrag"
+
+#: init-portfolio.php:44
+msgctxt "portfolio"
+msgid "Add New"
+msgstr "Erstellen"
+
+#: init-portfolio.php:45
+msgid "Add New Portfolio Item"
+msgstr "Neuen Portfolio-Eintrag erstellen"
+
+#: init-portfolio.php:46
+msgid "Edit Portfolio Item"
+msgstr "Portfolio-Eintrag bearbeiten"
+
+#: init-portfolio.php:47
+msgid "New Portfolio Item"
+msgstr "Neuer Portfolio-Eintrag"
+
+#: init-portfolio.php:48
+msgid "View Portfolio Item"
+msgstr "Portfolio-Eintrag anzeigen"
+
+#: init-portfolio.php:49
+msgid "Search Portfolio Items"
+msgstr "Portfolio-Einträge durchsuchen"
+
+#: init-portfolio.php:50
+msgid "No Portfolio Items found"
+msgstr "Keine Portfolio-Einträge gefunden"
+
+#: init-portfolio.php:51
+msgid "No Portfolio Items found in Trash"
+msgstr "Keine Portfolio-Einträge im Papierkorb"
+
+#: init-portfolio.php:78
+msgctxt "post type name"
+msgid "Portfolio Types"
+msgstr "Portfolio-Typen"
+
+#: init-portfolio.php:79
+msgctxt "singular post type name"
+msgid "Portfolio Type"
+msgstr "Portfolio-Typ"
+
+#: init-portfolio.php:80
+msgid "Search Portfolio Types"
+msgstr "Portfolio-Typen durchsuchen"
+
+#: init-portfolio.php:81
+msgid "All Portfolio Types"
+msgstr "Alle Portfolio-Typen"
+
+#: init-portfolio.php:82
+msgid "Parent Portfolio Type"
+msgstr "Eltern-Portfolio-Typ"
+
+#: init-portfolio.php:83
+msgid "Parent Portfolio Type:"
+msgstr "Eltern-Portfolio-Typ:"
+
+#: init-portfolio.php:84
+msgid "Edit Portfolio Type"
+msgstr "Portfolio-Typ bearbeiten"
+
+#: init-portfolio.php:85
+msgid "Update Portfolio Type"
+msgstr "Portfolio-Typ updaten"
+
+#: init-portfolio.php:86
+msgid "Add New Portfolio Type"
+msgstr "Neuen Portfolio-Typ hinzufügen"
+
+#: init-portfolio.php:87
+msgid "New Portfolio Type Name"
+msgstr "Neuer Portfolio-Typ-Name"
+
+#: init-portfolio.php:96
+msgid "Portfolio Types"
+msgstr "Portfolio-Typen"
+
+#: init-portfolio.php:97
+msgid "Portfolio Type"
+msgstr "Portfolio-Typ"
+
+#: tinymce/config.php:18
+msgid "Title"
+msgstr "Titel"
+
+#: tinymce/config.php:24
+msgid "URL"
+msgstr "URL"
+
+#: tinymce/config.php:25
+msgid "Add the buttons URL (e.g. http://example.com)"
+msgstr "Button-URL einfügen (z.B. http://example.com)"
+
+#: tinymce/config.php:29
+msgid "Open New Tab"
+msgstr "Neuen Tab öffnen"
+
+#: tinymce/config.php:30
+msgid "Open link in new tab"
+msgstr "Link in neuem Tab öffnen"
+
+#: tinymce/config.php:35 tinymce/config.php:135 tinymce/config.php:177
+msgid "Style"
+msgstr "Stil"
+
+#: tinymce/config.php:51 tinymce/config.php:144 tinymce/config.php:206
+msgid "Size"
+msgstr "Größe"
+
+#: tinymce/config.php:61
+msgid "Insert Button Shortcode"
+msgstr "Button-Shortcode einfügen"
+
+#: tinymce/config.php:76
+msgid "Insert Columns Shortcode"
+msgstr "Spalten-Shortcode einfügen"
+
+#: tinymce/config.php:84
+msgid "Column Type"
+msgstr "Spaltengröße"
+
+#: tinymce/config.php:105 tinymce/config.php:106
+msgid "Last Column"
+msgstr "Letzte Spalte"
+
+#: tinymce/config.php:112
+msgid "Column Content"
+msgstr "Spalteninhalt"
+
+#: tinymce/config.php:117
+msgid "Add Column"
+msgstr "Spalte hinzufügen"
+
+#: tinymce/config.php:154
+msgid "Insert Horizontal Ruler Shortcode"
+msgstr "Horizontal-Ruler-Shortcode einfügen"
+
+#: tinymce/config.php:172
+msgid "Text"
+msgstr "Text"
+
+#: tinymce/config.php:189
+msgid "Insert Info Box Shortcode"
+msgstr "Info-Box-Shortcode einfügen"
+
+#: tinymce/config.php:216
+msgid "Insert Spacer Shortcode"
+msgstr "Spacer-Shortcode einfügen"
+
+#: widgets/latest-work.php:21
+msgid "Shows your latest portfolio entries"
+msgstr "Zeigt neue Portfolio-Einträge an"
+
+#: widgets/latest-work.php:23 widgets/latest-work.php:50
+#: widgets/latest-work.php:124
+msgid "Latest Work"
+msgstr "Neue Arbeiten"
+
+#: widgets/latest-work.php:135
+msgid "Title:"
+msgstr "Titel:"
+
+#: widgets/latest-work.php:139
+msgid "Number of entries to show:"
+msgstr "Anzahl der Einträge:"
+
+#: widgets/latest-work.php:143
+msgid "Type:"
+msgstr "Typ:"

@@ -1,0 +1,217 @@
+
+
+
+
+
+
+
+
+
+/* @group Shortcodes
+============================================================ */
+
+
+
+/* @group Rulers and Spacers
+------------------------------------------------------------ */
+
+hr.ruven,
+.ruven-spacer {
+  height: 1px;
+  margin: 2em 0;
+}
+
+hr.ruven {
+  background: #d1d1d1;
+  color: #d1d1d1;
+  border: none;
+  text-align: left;
+  clear: both;
+}
+
+hr.ruven.alt { height: 3px; color: black; background: black; }
+
+hr.ruven.medium,
+.ruven-spacer.medium { margin: 3em 0; }
+
+hr.ruven.large,
+.ruven-spacer.large  { margin: 4.5em 0; }
+
+/* @end */
+
+
+
+/* @group Button
+------------------------------------------------------------ */
+
+
+/* Generic */
+
+a.ruven-button {
+  display: inline-block;
+  color: white !important;
+  background: #272727;
+  border: none;
+  font-size: 12px;
+  line-height: 1em;
+  vertical-align: middle;
+  font-weight: bold;
+	padding: 14px 15px;
+	margin: 0;
+	text-decoration: none !important;
+	margin-bottom: 4px;
+}
+
+a.ruven-button:hover {
+  color: white;
+  background: #ff451a;
+}
+
+a.ruven-button:active {
+  background: #e53d17;
+/*  box-shadow:         inset 0 0 5px rgba(0, 0, 0, .5);
+  -moz-box-shadow:    inset 0 0 5px rgba(0, 0, 0, .5);
+  -webkit-box-shadow: inset 0 0 5px rgba(0, 0, 0, .5);*/
+}
+
+
+/* Size */
+
+a.ruven-button.medium {
+  font-size: 16px;
+	padding: 16px 20px;
+}
+
+a.ruven-button.large {
+  font-size: 22px;
+	padding: 20px 26px;
+}
+
+
+/* Style */
+
+a.ruven-button.grey       { background-color: #aaa; }
+a.ruven-button.purple     { background-color: #BD1550; }
+a.ruven-button.red        { background-color: #ff451a; }
+a.ruven-button.orange     { background-color: #ff8c1a; }
+a.ruven-button.yellow     { background-color: #ffae00; }
+a.ruven-button.green      { background-color: #81bd21; }
+a.ruven-button.blue       { background-color: #26ADE4; }
+a.ruven-button.light-blue { background-color: #69D2E7; }
+
+a.ruven-button.grey:hover       { background-color: #9e9e9e; }
+a.ruven-button.purple:hover     { background-color: #a31245; }
+a.ruven-button.red:hover        { background-color: #ff0000; }
+a.ruven-button.orange:hover     { background-color: #ff661a; }
+a.ruven-button.yellow:hover     { background-color: #ff9900; }
+a.ruven-button.green:hover      { background-color: #78b01e; }
+a.ruven-button.blue:hover       { background-color: #24a4d6; }
+a.ruven-button.light-blue:hover { background-color: #63c7db; }
+
+a.ruven-button.grey:active       { background-color: #919191; }
+a.ruven-button.purple:active     { background-color: #96113f; }
+a.ruven-button.red:active        { background-color: #f20000; }
+a.ruven-button.orange:active     { background-color: #f26118; }
+a.ruven-button.yellow:active     { background-color: #ff8400; }
+a.ruven-button.green:active      { background-color: #6fa31c; }
+a.ruven-button.blue:active       { background-color: #229ac9; }
+a.ruven-button.light-blue:active { background-color: #5dbccf; }
+
+/* @end */
+
+
+
+/* @group Columns
+------------------------------------------------------------ */
+
+.ruven-one-half     { width: 48%; }
+.ruven-one-third    { width: 30.66%; }
+.ruven-two-third    { width: 65.33%; }
+.ruven-one-fourth   { width: 22%; }
+.ruven-three-fourth { width: 74%; }
+.ruven-one-fifth    { width: 16.8%; }
+.ruven-two-fifth    { width: 37.6%; }
+.ruven-three-fifth  { width: 58.4%; }
+.ruven-four-fifth   { width: 79.2%; }
+.ruven-one-sixth    { width: 13.33%; }
+.ruven-two-sixth    { width: 30.66%; }
+.ruven-three-sixth  { width: 47.99%; }
+.ruven-four-sixth   { width: 65.32%; }
+.ruven-five-sixth   { width: 82.67%; }
+
+.ruven-one-half,
+.ruven-one-third,
+.ruven-two-third,
+.ruven-three-fourth,
+.ruven-one-fourth,
+.ruven-one-fifth,
+.ruven-two-fifth,
+.ruven-three-fifth,
+.ruven-four-fifth,
+.ruven-one-sixth,
+.ruven-two-sixth,
+.ruven-three-sixth,
+.ruven-four-sixth,
+.ruven-five-sixth {
+  float: left;
+  position: relative;
+  margin-right: 4%;
+  margin-bottom: 2em;
+}
+
+.ruven-last-column {
+  clear: right;
+  margin-right: 0;
+}
+
+@media only screen and (max-width: 652px) {
+  .ruven-one-half,
+  .ruven-one-third,
+  .ruven-two-third,
+  .ruven-three-fourth,
+  .ruven-one-fourth,
+  .ruven-one-fifth,
+  .ruven-two-fifth,
+  .ruven-three-fifth,
+  .ruven-four-fifth,
+  .ruven-one-sixth,
+  .ruven-two-sixth,
+  .ruven-three-sixth,
+  .ruven-four-sixth,
+  .ruven-five-sixth {
+    width: 100%;
+    float: none;
+    margin-right: 0;
+  }
+}
+
+/* @end */
+
+
+
+/* @group Info Box
+------------------------------------------------------------ */
+
+.ruven-info-box {
+  font-weight: bold;
+  padding: 15px;
+  background-color: #f9f9f9;
+}
+
+.ruven-info-box.grey     { background-color: #aaa;    color: white; }
+.ruven-info-box.green    { background-color: #81bd21; color: white; }
+.ruven-info-box.orange   { background-color: #ff8c1a; color: white; }
+.ruven-info-box.red      { background-color: #ff451a; color: white; }
+
+/* @end */
+
+/* @end */
+
+
+
+
+
+
+
+
+
